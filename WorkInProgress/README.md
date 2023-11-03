@@ -22,11 +22,11 @@ Seu desafio é realizar a refatoração do projeto de Hotel e Hospedagem utiliza
 
 ###### ESPECIALISTA
 
-![author](https://hermes.dio.me/users/author/photos/ce9edb13-2003-4fbb-8192-9b40c9124822.jpg)
+! - [author](https://hermes.dio.me/users/author/photos/ce9edb13-2003-4fbb-8192-9b40c9124822.jpg)
 
 ###### Thiago Mari
 
-Outsystems Expert, OutSystems Expert Mentor[**](https://www.linkedin.com/in/thiago-mari/)
+Outsystems Expert, OutSystems Expert Mentor - [**](https://www.linkedin.com/in/thiago-mari/)
 
 
 
@@ -34,13 +34,13 @@ https://web.dio.me/project/refatorando-o-projeto-diohotel/learning/8467bc0c-7c04
 
 
 
-[**](https://web.dio.me/track/formacao-outsystems-fundamentals)
+ - [**](https://web.dio.me/track/formacao-outsystems-fundamentals)
 
 ##### Refatorando o Projeto de Hotel e Hospedagem com OutSystems
 
 **
 
-[**](https://web.dio.me/lab/refatorando-o-projeto-diohotel/learning/8467bc0c-7c04-4b28-9944-13ec8df92e53)[**](https://web.dio.me/lab/refatorando-o-projeto-diohotel/learning/9df81998-beb0-48f3-86a5-d94a675b1bf8)
+ - [**](https://web.dio.me/lab/refatorando-o-projeto-diohotel/learning/8467bc0c-7c04-4b28-9944-13ec8df92e53) - [**](https://web.dio.me/lab/refatorando-o-projeto-diohotel/learning/9df81998-beb0-48f3-86a5-d94a675b1bf8)
 
 <iframe id="ytc20" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="Refatorando o Projeto DIOHotel" width="100%" height="100%" src="https://www.youtube.com/embed/4j202hm4OAE?controls=0&amp;disablekb=1&amp;enablejsapi=1&amp;fs=0&amp;iv_load_policy=3&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;html5=1&amp;cc_load_policy=0&amp;origin=https%3A%2F%2Fweb.dio.me&amp;widgetid=1" data-gtm-yt-inspected-18="true" style="box-sizing: inherit; max-width: none; float: none; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 14px; vertical-align: baseline;"></iframe>
 
@@ -65,7 +65,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Refatorando o Projeto DIOHotel](https://web.dio.me/lab/refatorando-o-projeto-diohotel/learning/8467bc0c-7c04-4b28-9944-13ec8df92e53)[Entendendo o Desafio](https://web.dio.me/lab/refatorando-o-projeto-diohotel/learning/9df81998-beb0-48f3-86a5-d94a675b1bf8)
+ - [Refatorando o Projeto DIOHotel](https://web.dio.me/lab/refatorando-o-projeto-diohotel/learning/8467bc0c-7c04-4b28-9944-13ec8df92e53)
+ - [Entendendo o Desafio](https://web.dio.me/lab/refatorando-o-projeto-diohotel/learning/9df81998-beb0-48f3-86a5-d94a675b1bf8)
 
 
 
@@ -73,7 +74,7 @@ auto
 
 **
 
-[**](https://web.dio.me/lab/refatorando-o-projeto-diohotel/learning/8467bc0c-7c04-4b28-9944-13ec8df92e53)[**](https://web.dio.me/lab/refatorando-o-projeto-diohotel/learning/undefined)
+ - [**](https://web.dio.me/lab/refatorando-o-projeto-diohotel/learning/8467bc0c-7c04-4b28-9944-13ec8df92e53) - [**](https://web.dio.me/lab/refatorando-o-projeto-diohotel/learning/undefined)
 
 # Entendendo o Desafio
 
@@ -97,7 +98,7 @@ auto
 
 ##  **Slides**
 
-[Desafio de Projeto 02 - Refatorizando o DIOHotel.pptx](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/ESqd1kg4QjpAkAA8yF1JEGUBfYilzw_X_wv9I5No-qD_Nw?e=xSJ9Kc)
+ - [Desafio de Projeto 02 - Refatorizando o DIOHotel.pptx](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/ESqd1kg4QjpAkAA8yF1JEGUBfYilzw_X_wv9I5No-qD_Nw?e=xSJ9Kc)
 
  
 
